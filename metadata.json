@@ -1,0 +1,6 @@
+{
+  "name": "Elbababy POS & Stok Bayi",
+  "description": "Sistem POS Kasir, Manajemen Stok Perlengkapan Bayi dengan Moving Average HPP, Laporan Keuangan Real-Time, Cetak Struk Bluetooth & Ekspor Excel.",
+  "requestFramePermissions": ["bluetooth"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
